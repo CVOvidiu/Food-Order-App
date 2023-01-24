@@ -10,3 +10,4 @@ This is a course project from "React - The Complete Guide" by Maximilian Schwarz
 - Props
 - React Portal
 - React State
+- React Context
