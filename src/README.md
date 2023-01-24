@@ -7,3 +7,4 @@ This is a course project from "React - The Complete Guide" by Maximilian Schwarz
 - Components
 - Styled components
 - Fragment
+- Props
