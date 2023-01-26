@@ -11,3 +11,4 @@ This is a course project from "React - The Complete Guide" by Maximilian Schwarz
 - React Portal
 - React State
 - React Context
+- Forwarded Ref
